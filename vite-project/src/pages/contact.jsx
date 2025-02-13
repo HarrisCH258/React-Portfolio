@@ -23,12 +23,12 @@ export default function Contact() {
   return (
     <div className="contact">
       <h1><strong>Contact Me</strong></h1>
-      <p>Feel free to reach out to me at maverickmmsc@gmail.com or fill out the form below.</p>
+      <p>Feel free to reach out to me at ch2953har@gmail.com or fill out the form below.</p>
       <form onSubmit={handleSubmit}>
         <strong>Name:</strong>
         <input
           type="text"
-          placeholder="John Doe"
+          placeholder="enter name"
           value={name}
           onChange={(e) => setName(e.target.value)}
         />

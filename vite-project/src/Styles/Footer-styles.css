@@ -1,12 +1,15 @@
-.footer {
+
     background: #17b782;
-    height: 200px;
-  }
-  
-  .footer h1 {
-    margin: 0;
-    padding-top: 75px;
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #17b782;
     text-align: center;
-    color: white;
-    font-size: 3rem;
-  }
+}
+
+footer img {
+    width: 60px;
+    padding: 10px;
+}
