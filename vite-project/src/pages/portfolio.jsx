@@ -1,6 +1,6 @@
 import React from "react";
 import Content from "../components/Content.jsx";
-import "../styles/portfolio.css";
+import "../Styles/portfolio.css";
 const contents = [
     { title: "Weather Board", image: "/assets/weatherAPI.png", url:"https://github.com/HarrisCH258/Weather-Board" },
     { title: "Employee Tracker", image: "/assets/employeeTracker.png", url:"https://github.com/HarrisCH258/Challenge-10-SQL" },

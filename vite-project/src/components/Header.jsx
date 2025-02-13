@@ -1,4 +1,4 @@
-import '../styles/Header-styles.css';
+import '../Styles/Header-styles.css';
 import React from 'react';
 import Nav from './Nav';
 

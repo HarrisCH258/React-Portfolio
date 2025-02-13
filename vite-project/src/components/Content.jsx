@@ -1,4 +1,4 @@
-import '../styles/Content-styles.css';
+import '../Styles/Content-styles.css';
 import React from 'react';
 
 function Content(props) {
